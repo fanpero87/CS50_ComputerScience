@@ -1,0 +1,6 @@
+//Program to create a pyramic of blocks
+1. ask the user for the height of the pyramic
+2. if the input is between 1 and 8 then
+3. print the symbol # from one for n number of lines
+4. increase the number of # symbols per line until the end
+5. if the input is not a positive number between 1 and 8, then ask the user over and over
